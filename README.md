@@ -14,7 +14,7 @@ $ git remote add origin https://github.com/<your account>/WordLanguageModel.git
 
 ## What is here?
 The components of this repo are:
--  `utilities/` - a directory that contains helper functions used by `text_classifier.ipynb`.
+-  `utilities/` - a directory that contains helper functions used by `word_language_model.ipynb`.
 -  `requirements.txt` - a file describing all required Python dependencies.
 
 ## About the model
