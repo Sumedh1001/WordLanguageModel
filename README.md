@@ -1,5 +1,5 @@
 # Word Language Model
-The following repo contains code for training a word-level language model to generate text based on a sequence of previous text. This type of model, while more advanced than the quickstart models offered out-of-the-box by Skafos, can easily be converted to Core ML and saved to the edge leveraging our framework. Follow along with [this blog post](), or forge ahead.
+The following repo contains code for training a word-level language model to generate text based on a sequence of previous text. This type of model, while more advanced than the quickstart models offered out-of-the-box by Skafos, can easily be converted to Core ML and saved to iOS applications leveraging our framework. Follow along with [this blog post](), or forge ahead on your own.
 
 ## Fire it up!
 If you want to try out this example, first fork this repo to your own github account, then clone (or pull) it into a Skafos Jupyter Lab instance:
@@ -15,7 +15,6 @@ $ git remote add origin https://github.com/<your account>/WordLanguageModel.git
 ## What is here?
 The components of this repo are:
 -  `word_language_model.ipynb` - a Python notebook that contains code to train and export a word language model suing a recurrent neural network.
--  `utilities/` - a directory that contains helper functions used by `word_language_model.ipynb`.
 -  `requirements.txt` - a file describing all required Python dependencies.
 
 ## Need Help?
