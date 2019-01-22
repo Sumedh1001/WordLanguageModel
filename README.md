@@ -1,5 +1,5 @@
 # Word Language Model
-The following repo contains code for training a word-level language model to generate text based on a sequence of previous text. This type of model, while more advanced than the quickstart models offered out-of-the-box by Skafos, can easily be converted to Core ML and saved to iOS applications leveraging our framework. Follow along with [this blog post](), or forge ahead on your own.
+The following repo contains code for training a word-level language model to generate text based on a sequence of previous text. This type of model, while more advanced than the quickstart models offered out-of-the-box by Skafos, can easily be converted to Core ML and saved to iOS applications leveraging our framework. Follow along with [this blog post](https://medium.com/metis-machine/building-a-custom-core-ml-model-on-skafos-d997b6b50574), or forge ahead on your own.
 
 ## Fire it up!
 If you want to try out this example, first fork this repo to your own github account, then clone (or pull) it into a Skafos Jupyter Lab instance:
